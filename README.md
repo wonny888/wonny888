@@ -4,8 +4,7 @@
 
 ## About Me
 
-🎓 **Mechanical Engineering Student — Vanderbilt University**  
-🚀 Interested in **aerospace, propulsion, experimental research, and mechanical design**  
+🎓 **Mechanical Engineering Junior — Vanderbilt University**  
 🛡️ **U.S. Citizen** eligible to obtain DoD security clearance  
 📍 Nashville, TN | Las Vegas, NV — open to relocation
 
@@ -15,44 +14,39 @@
 
 ### 🔬 UV Raman Spectral Fitting Tool
 
-Python-based analysis tool developed for hydrogen combustion temperature measurements.
+Python-based spectral fitting software for estimating hydrogen combustion temperature from 266 nm spontaneous Raman measurements
 
-- Developed a tool to automatically compare **experimental and simulated H₂ Raman spectra**
-- Implemented temperature fitting using **wavelength shift, Gaussian broadening, and MSE minimization**
-- Built a graphical interface to automate spectral library generation and fitting
-- Analyzed experimental hydrogen-air combustion spectra across multiple equivalence ratios
-- Presented results at a **Vanderbilt engineering research symposium**
+- 3-parameter grid search optimizing temperature, wavelength shift (±0.10 nm), and Gaussian FWHM broadening (0–0.15 nm) by minimizing normalized mean squared error
+- PySide6 GUI automating experimental spectrum import, equivalence-ratio-based gas composition, Raman simulation library generation, and best-fit visualization
+- Generated temperature-dependent H₂ Raman spectra and evaluated fits using spectral overlays, residuals, and error-vs-temperature analysis
 
 ### 🏎️ 3D-Printed Mechanical Car
 
-Designed and built a functional mechanical car from the ground up using CAD, 3D printing, soldering, and hands-on assembly.
+Custom vehicle designed and fabricated from CAD model to functional prototype
 
-- Designed the vehicle and custom components in **SolidWorks**
-- Fabricated parts using **3D printing** and assembled the chassis and drivetrain
-- Integrated electrical components through **soldering and wiring**
-- Designed and implemented a **3:1 gear train** for speed and torque transmission
-- Tested and refined the design through multiple prototypes and performance trials
-- Final vehicle completed a **10 ft run in approximately 1.8 seconds**
+- Designed complete vehicle geometry and custom drivetrain components in SolidWorks, then fabricated parts using 3D printing
+- Implemented a 3:1 gear train and integrated the motor/electrical system through soldering, wiring, and mechanical assembly
+- Iteratively tested and refined the chassis and drivetrain, achieving a 10 ft run in approximately 1.8 seconds
 
 ---
 
 ## Technical Skills
 
-**Mechanical Design & Manufacturing:** SolidWorks, CAD, LABVIEW, mechanical design, engineering drawings, welding, machining, cutting/grinding, assembly
+**Mechanical Design & Manufacturing:** SolidWorks (part modeling, assemblies, engineering drawings), CAD, 3D printing, welding, machining, cutting/grinding, mechanical assembly
 
-**Experimental & Optical Systems:** UV laser alignment, Raman spectroscopy, spectrometer setup, optical alignment, data acquisition, signal optimization, experimental troubleshooting
+**Experimental & Optical Systems:** UV laser alignment, Raman spectroscopy, spectrometer alignment, optical beam-path optimization, signal acquisition, experimental troubleshooting
 
 **Programming:** Python (NumPy, SciPy, pandas, Matplotlib, PySide6), Java, MATLAB, Git
 
-**Engineering Tools:** NI USB-6221 DAQ, ADXL335 accelerometers, oscilloscopes, basic instrumentation, technical documentation
+**Engineering Tools:** LabVIEW, NI USB-6221 DAQ, ADXL335 accelerometers, oscilloscopes, technical documentation
 
 ---
 
 ## Experience Highlights
 
-- 🔬 **Undergraduate Research Assistant** — Vanderbilt Laser Diagnostics of Combustion Laboratory
+- 🔬 **Research Assistant** — Vanderbilt Laser Diagnostics of Combustion Laboratory
 - 🧪 **Summer Research Intern** — Vanderbilt University School of Engineering
-- 🛠️ **Welding Teaching Assistant** — Vanderbilt University School of Engineering
+- 🛠️ **Welding Teaching Assistant** — Vanderbilt Civil Engineering
 
 ---
 
@@ -60,9 +54,9 @@ Designed and built a functional mechanical car from the ground up using CAD, 3D 
 
 📄 [View My Resume](YOUR_RESUME_LINK)
 
-💼 [LinkedIn](YOUR_LINKEDIN_LINK)
+💼 [LinkedIn](https://www.linkedin.com/in/wonsunyou/)
 
-📧 [Email Me](mailto:YOUR_EMAIL)
+📧 wonnyou8@gmail.com
 
 ---
 
