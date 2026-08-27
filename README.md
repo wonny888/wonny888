@@ -23,22 +23,16 @@ Python-based analysis tool developed for hydrogen combustion temperature measure
 - Analyzed experimental hydrogen-air combustion spectra across multiple equivalence ratios
 - Presented results at a **Vanderbilt engineering research symposium**
 
-### 🚀 High-Power Rocketry
+### 🏎️ 3D-Printed Mechanical Car
 
-Hands-on rocketry project focused on designing, building, and launching a high-power rocket.
+Designed and built a functional mechanical car from the ground up using CAD, 3D printing, soldering, and hands-on assembly.
 
-- Working toward **Level 1 High-Power Rocketry Certification**
-- Experience with rocket assembly, stability, recovery systems, and launch preparation
-- Interested in applying mechanical design and testing principles to aerospace systems
-
-### 📐 Cantilever Beam Vibration Analysis
-
-Experimental vibration measurement project using accelerometers and data acquisition hardware.
-
-- Measured cantilever beam vibration using an **ADXL335 accelerometer**
-- Collected experimental data using an **NI USB-6221 DAQ**
-- Developed a **LabVIEW interface** for data acquisition and analysis
-- Compared experimental vibration behavior with theoretical predictions
+- Designed the vehicle and custom components in **SolidWorks**
+- Fabricated parts using **3D printing** and assembled the chassis and drivetrain
+- Integrated electrical components through **soldering and wiring**
+- Designed and implemented a **3:1 gear train** for speed and torque transmission
+- Tested and refined the design through multiple prototypes and performance trials
+- Final vehicle completed a **10 ft run in approximately 1.8 seconds**
 
 ---
 
@@ -58,7 +52,7 @@ Experimental vibration measurement project using accelerometers and data acquisi
 
 - 🔬 **Undergraduate Research Assistant** — Vanderbilt Laser Diagnostics of Combustion Laboratory
 - 🧪 **Summer Research Intern** — Vanderbilt University School of Engineering
-- 🛠️ **Welding TA** — Vanderbilt University School of Engineering
+- 🛠️ **Welding Teaching Assistant** — Vanderbilt University School of Engineering
 
 ---
 
