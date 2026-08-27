@@ -60,4 +60,4 @@ Custom vehicle designed and fabricated from CAD model to functional prototype
 
 ---
 
-*Interested in aerospace, propulsion, mechanical design, and engineering research opportunities.*
+*Interested in aerospace, defense, propulsion, or mechanical design opportunities.*
