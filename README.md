@@ -44,7 +44,7 @@ Custom vehicle designed and fabricated from CAD model to functional prototype
 
 ## Experience Highlights
 
-- 🔬 **Research Assistant** — Vanderbilt Laser Diagnostics of Combustion Laboratory
+- 🔬 **Research Assistant** — Laser Diagnostics of Combustion Laboratory
 - 🧪 **Summer Research Intern** — Vanderbilt University School of Engineering
 - 🛠️ **Welding Teaching Assistant** — Vanderbilt Civil Engineering
 
