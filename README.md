@@ -36,7 +36,7 @@ Custom vehicle designed and fabricated from CAD model to functional prototype
 
 **Experimental & Optical Systems:** UV laser alignment, Raman spectroscopy, spectrometer alignment, optical beam-path optimization, signal acquisition, experimental troubleshooting
 
-**Programming:** Python (NumPy, SciPy, pandas, Cantera, Matplotlib, PySide6), Java, MATLAB, Git
+**Programming:** Python (NumPy, SciPy, pandas, Cantera, Matplotlib, PySide6), Java, MATLAB.
 
 **Engineering Tools:** LabVIEW, NI USB-6341 DAQ, ADXL335 accelerometers, oscilloscopes, technical documentation
 
