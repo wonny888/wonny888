@@ -38,7 +38,7 @@ Custom vehicle designed and fabricated from CAD model to functional prototype
 
 **Programming:** Python (NumPy, SciPy, pandas, Cantera, Matplotlib, PySide6), Java, MATLAB, Git
 
-**Engineering Tools:** LabVIEW, NI USB-6221 DAQ, ADXL335 accelerometers, oscilloscopes, technical documentation
+**Engineering Tools:** LabVIEW, NI USB-6341 DAQ, ADXL335 accelerometers, oscilloscopes, technical documentation
 
 ---
 
