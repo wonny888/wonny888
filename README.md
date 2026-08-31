@@ -25,7 +25,7 @@ Python-based spectral fitting software for estimating hydrogen combustion temper
 Custom vehicle designed and fabricated from CAD model to functional prototype
 
 - Designed complete vehicle geometry and custom drivetrain components in SolidWorks, then fabricated parts using 3D printing
-- Implemented a 3:1 gear train and integrated the motor/electrical system through soldering, wiring, and mechanical assembly
+- Implemented a 4.1:1 gear train and integrated the motor/electrical system through soldering, wiring, and mechanical assembly
 - Iteratively tested and refined the chassis and drivetrain, achieving a 10 ft run in approximately 1.8 seconds
 
 ---
