@@ -32,7 +32,7 @@ Custom vehicle designed and fabricated from CAD model to functional prototype
 
 ## Technical Skills
 
-**Mechanical Design & Manufacturing:** SolidWorks (part modeling, assemblies, engineering drawings), CAD, 3D printing, welding, machining, cutting/grinding, mechanical assembly
+**Mechanical Design & Manufacturing:** SolidWorks (part modeling, assemblies, engineering drawings), SimScale, 3D printing, welding, machining, cutting/grinding, mechanical assembly
 
 **Experimental & Optical Systems:** UV laser alignment, Raman spectroscopy, spectrometer alignment, optical beam-path optimization, signal acquisition, experimental troubleshooting
 
