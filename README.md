@@ -32,13 +32,13 @@ Custom vehicle designed and fabricated from CAD model to functional prototype
 
 ## Technical Skills
 
-**Mechanical Design & Manufacturing:** SolidWorks (part modeling, assemblies, engineering drawings), SolidWorks Flow Simulation (CFD), 3D printing, welding, machining, cutting/grinding, mechanical assembly
+**Mechanical Design & Manufacturing:** SolidWorks (Certified SOLIDWORKS Associate; part modeling, assemblies, engineering drawings), CNC machining, 3D printing, welding, cutting/grinding, mechanical assembly, rapid prototyping
 
-**Experimental & Optical Systems:** UV laser alignment, Raman spectroscopy, spectrometer alignment, optical beam-path optimization, signal acquisition, experimental troubleshooting
+**Engineering Analysis & Simulation:** SolidWorks Flow Simulation (CFD), MATLAB, basic structural and thermal/fluid analysis, engineering calculations
 
-**Programming:** Python (NumPy, SciPy, pandas, Cantera, Matplotlib, PySide6), Java, MATLAB.
+**Experimental and Optical Systems:** UV laser alignment, Raman spectroscopy, spectrometer alignment, optical beam-path optimization, signal acquisition, experimental troubleshooting, oscilloscopes, ADXL335 accelerometers, NI USB-6341 DAQ, LabVIEW
 
-**Engineering Tools:** LabVIEW, NI USB-6341 DAQ, ADXL335 accelerometers, oscilloscopes, technical documentation
+**Programming & Data Analysis:** Python (NumPy, SciPy, pandas, Cantera, Matplotlib, PySide6), MATLAB, Java, Git/GitHub
 
 ---
 
