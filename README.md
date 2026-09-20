@@ -20,7 +20,7 @@ Python-based spectral fitting software for estimating hydrogen combustion temper
 - PySide6 GUI automating experimental spectrum import, equivalence-ratio-based gas composition, Raman simulation library generation, and best-fit visualization
 - Generated temperature-dependent H₂ Raman spectra and evaluated fits using spectral overlays, residuals, and error-vs-temperature analysis
 
-### 🏎️ Gear-Driven Vehicle
+### 🏎️ Gear-Driven Vehicle Project
 
 Custom vehicle designed and fabricated from CAD model to functional prototype
 
