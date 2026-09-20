@@ -20,13 +20,22 @@ Python-based spectral fitting software for estimating hydrogen combustion temper
 - PySide6 GUI automating experimental spectrum import, equivalence-ratio-based gas composition, Raman simulation library generation, and best-fit visualization
 - Generated temperature-dependent H₂ Raman spectra and evaluated fits using spectral overlays, residuals, and error-vs-temperature analysis
 
-### 🏎️ 3D-Printed Mechanical Car
+### 🏎️ Gear-Driven Vehicle Design
 
 Custom vehicle designed and fabricated from CAD model to functional prototype
 
 - Designed complete vehicle geometry and custom drivetrain components in SolidWorks, then fabricated parts using 3D printing
 - Implemented a 4.1:1 gear train and integrated the motor/electrical system through soldering, wiring, and mechanical assembly
 - Iteratively tested and refined the chassis and drivetrain, achieving a 10 ft run in approximately 1.8 seconds
+
+### 📈 Cantilever Beam Vibration Project
+
+Designed and tested an experimental vibration measurement setup to characterize the dynamic response of a cantilever beam.
+
+- Integrated an ADXL335 accelerometer with an NI USB DAQ for real-time vibration measurements
+- Built a LabVIEW data-acquisition interface to collect and visualize acceleration signals
+- Analyzed measured vibration response to evaluate the beam's dynamic behavior
+- Gained hands-on experience with sensor integration, DAQ systems, signal acquisition, and experimental testing
 
 ---
 
