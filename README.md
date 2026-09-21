@@ -61,7 +61,7 @@ Designed and tested an experimental vibration measurement setup to characterize 
 
 ## Let's Connect!
 
-📄 [View My Resume](RESUME)
+📄 [View My Resume](RESUME.pdf)
 
 💼 [LinkedIn](https://www.linkedin.com/in/wonsunyou/)
 
